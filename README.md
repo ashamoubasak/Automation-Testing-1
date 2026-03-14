@@ -54,16 +54,17 @@ npm run checkoutproduct
 npm run purchasebyfilter
 ```
 
+Run All the features
+```bash
+npm run test
+```
+
 ## Get Report 
 
 ```bash
 npm run getReport 
 ```
 
-### Run All the features
-```bash
-npm run test
-```
 
 
 
